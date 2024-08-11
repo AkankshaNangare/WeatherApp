@@ -47,10 +47,7 @@ export const Weather = () => {
   };
 
   return (
-    <div style={{
-      paddingLeft:'600px',
-      paddingTop:'30px'
-    }}>
+    <div>
       <br />
       <br />
       <div
