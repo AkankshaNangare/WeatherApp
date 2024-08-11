@@ -87,8 +87,7 @@ export const Weather = () => {
             fontFamily: "Times New Roman', Times, serif",
             fontWeight: "600",
           }}
-        >
-          © {currentYear} COPYRIGHT
+        > © {currentYear} COPYRIGHT
         </div>
       </div>
     </div>
